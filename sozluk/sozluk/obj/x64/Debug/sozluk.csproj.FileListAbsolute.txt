@@ -1,0 +1,11 @@
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\bin\x64\Debug\sozluk.exe.config
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\bin\x64\Debug\sozluk.exe
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\bin\x64\Debug\sozluk.pdb
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\obj\x64\Debug\sozluk.csproj.AssemblyReference.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\obj\x64\Debug\sozluk.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\obj\x64\Debug\sozluk.Form1.resources
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\obj\x64\Debug\sozluk.Properties.Resources.resources
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\obj\x64\Debug\sozluk.csproj.GenerateResource.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\obj\x64\Debug\sozluk.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\obj\x64\Debug\sozluk.exe
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\sozluk\sozluk\obj\x64\Debug\sozluk.pdb
